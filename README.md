@@ -56,6 +56,4 @@ Power BI Desktop · Power Query · DAX · Tabular Editor (data model / relations
 ## **Files**
 
 * `CRM_Sales_report.pbix` — the dashboard file  
-* `/screenshots` — page exports for anyone viewing without Power BI Desktop  
-- 
-
+* `/screenshots` — page exports for anyone viewing without Power BI Desktop
